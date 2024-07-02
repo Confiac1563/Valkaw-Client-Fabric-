@@ -5,7 +5,7 @@
 ## UPDATE!!!
 - After pondering, I decided to remove all mods that provide similar features to OptiFine, because these mods have reduced the modpack's performance, as well as compatibility with servers using custom resourcepacks.
 - From now on, this modpack will prioritize game performance instead of supporting resourcepack features.
-- [For AMD/Intel GPU users] Please disable/remove mod "Nvidium" for Fabric or "Acedium" for NeoForge if you don't want the game to crash due to incompatibility with your GPU, thank you for reading.
+- [For AMD/Intel GPU users] Please disable/remove mod "[Nvidium](https://modrinth.com/mod/nvidium)" for Fabric or "[Acedium](https://github.com/ferriarnus/acedium)" for NeoForge if you don't want the game to crash due to incompatibility with your GPU, thank you for reading.
 
 ## Information
 - Valkaw Client is a "Optimize Client for Fabric" designed for low-ends PC, forked from [Sliwed Optimize](https://modrinth.com/modpack/sliwed-optimize), ~~with many support features like OptiFine such as CEM, CTM,... Bringing you a better experience with resourcepack~~ with support from new mods, significantly increased and smoother performance.
