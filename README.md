@@ -16,3 +16,5 @@
 ## License
 - This modpack is covered under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
 - If you use this modpack to make videos or similar, please clearly credit the modpack author ^^ thank you for this act of respect.
+## Donation?
+- I make this modpack for free, I don't need support. I do it for everyone who has a low-end PC but wants to play the game smoothly (I'm also a part, bruh).
