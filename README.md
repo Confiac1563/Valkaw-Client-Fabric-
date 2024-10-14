@@ -9,7 +9,7 @@
 - [For AMD/Intel GPU users] Please disable/remove mod "[Nvidium](https://modrinth.com/mod/nvidium)" for Fabric or "[Acedium](https://github.com/ferriarnus/acedium)" for NeoForge if you don't want the game to crash due to incompatibility with your GPU, thank you for reading.
 
 ## Information
-- Valkaw Client is a "Optimize Client for Fabric" designed for low-ends PC, forked from [Sliwed Optimize](https://modrinth.com/modpack/sliwed-optimize), ~~with many support features like OptiFine such as CEM, CTM,... Bringing you a better experience with resourcepack~~ with support from new mods, significantly increased and smoother performance.
+- Valkaw Client is a "Optimize Client for Fabric and NeoForge" designed for low-ends PC, forked from [Sliwed Optimize](https://modrinth.com/modpack/sliwed-optimize), ~~with many support features like OptiFine such as CEM, CTM,... Bringing you a better experience with resourcepack~~ with support from new mods, significantly increased and smoother performance.
 - Version support: Fabric and NeoForge from 1.20.1 to latest version!!
 - Have a issue with this modpack? Click the "Issues" button on the modpack's Github page or join my Discord server for faster support.
 
