@@ -1,38 +1,3 @@
-<div class="container">
-    <img class="https://i.imgur.com/OjPk3qU.jpeg">
-    <img class="https://i.imgur.com/8Nv4p2p.jpeg">
-    <img class="https://i.imgur.com/foMdMTA.jpeg">
-</div>
-<style>
-   .container {
-      display: flex;
-      flex-direction: row;
-   }
-
-   .flex-item1 {
-      align-item: flex-start;
-   }
-   .flex-item2 {
-      align-item: flex-center;
-   }
-   .flex-item3 {
-      align-item: flex-end;
-   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div style="text-align: center;">
   <a href="https://github.com/Confiac1563/Valkaw-Client-Fabric_NeoForge" style="margin: 0 10px;">
