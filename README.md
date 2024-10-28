@@ -1,8 +1,19 @@
-<div class="container", style="display: flex, grid; justify-content: center;">
+
+<div class="center-image">
   <a href="https://github.com/Confiac1563/Valkaw-Client-Fabric_NeoForge">
     <img src="https://i.imgur.com/foMdMTA.jpeg" alt="Linked Image">
   </a>
 </div>
+
+<style>
+.center-image {
+  text-align: center;
+}
+.center-image a {
+  display: inline-block;
+  margin: auto;
+}
+</style>
 
 
 
