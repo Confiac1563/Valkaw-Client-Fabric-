@@ -1,6 +1,6 @@
-
-[![Modrinth Logo](https://i.imgur.com/WvDiYhm.png 'Available on Modrinth')](https://modrinth.com/modpack/valkaw-client)
-[![Modrinth Logo](https://i.imgur.com/RqMjCHc.png 'Available on CurseForge')](https://www.curseforge.com/minecraft/modpacks/valkaw-client)
+[![Github Logo](https://i.imgur.com/foMdMTA.jpeg 'Available on Github')](https://github.com/Confiac1563/Valkaw-Client-Fabric_NeoForge)
+[![Modrinth Logo](https://i.imgur.com/8Nv4p2p.jpeg 'Available on Modrinth')](https://modrinth.com/modpack/valkaw-client)
+[![CurseForge Logo](https://i.imgur.com/OjPk3qU.jpeg 'Available on CurseForge')](https://www.curseforge.com/minecraft/modpacks/valkaw-client)
 ## UPDATE!!!
 - **[For those who are using Fabric 1.20.4 v1.5] Please delete the following mods: AppleSkin, Continuity, Fast Trading, freelook, Gamma Utils, Longer Chat History, Macro Keybinds, MinecraftCapes, ViaFabricPlus (maybe u need this), WorldHost, WorldEdit +  CUI. Looks like disabled mods are still being added, next time I'll delete them instead of disabling them. If you need some mods in the list, just enable them.**
 - [For AMD/Intel GPU users] Please disable/remove mod "Nvidium" for Fabric or "Acedium" for NeoForge if you don't want the game to crash due to incompatibility with your GPU, thank you for reading.
