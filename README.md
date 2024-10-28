@@ -1,7 +1,7 @@
 <div class="container">
-    <img class="flex-item 1">
-    <img class="flex-item 2">
-    <img class="flex-item 3">
+    <img class="https://i.imgur.com/OjPk3qU.jpeg">
+    <img class="https://i.imgur.com/8Nv4p2p.jpeg">
+    <img class="https://i.imgur.com/foMdMTA.jpeg">
 </div>
 <style>
    .container {
