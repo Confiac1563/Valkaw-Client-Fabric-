@@ -1,19 +1,16 @@
 
-<div class="center-image">
-  <a href="https://github.com/Confiac1563/Valkaw-Client-Fabric_NeoForge">
-    <img src="https://i.imgur.com/foMdMTA.jpeg" alt="Linked Image">
+<div style="text-align: center;">
+  <a href="https://github.com/Confiac1563/Valkaw-Client-Fabric_NeoForge" style="margin: 0 10px;">
+    <img src="https://i.imgur.com/foMdMTA.jpeg" alt="Available on Github">
+  </a>
+  <a href="https://modrinth.com/modpack/valkaw-client" style="margin: 0 10px;">
+    <img src="https://i.imgur.com/8Nv4p2p.jpeg" alt="Available on Modrinth">
+  </a>
+  <a href="https://www.curseforge.com/minecraft/modpacks/valkaw-client" style="margin: 0 10px;">
+    <img src="https://i.imgur.com/OjPk3qU.jpeg" alt="Available on CurseForge">
   </a>
 </div>
 
-<style>
-.center-image {
-  text-align: center;
-}
-.center-image a {
-  display: inline-block;
-  margin: auto;
-}
-</style>
 
 
 
