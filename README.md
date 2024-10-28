@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<div class="container", style="display: flex, grid; justify-content: center;">
   <a href="https://github.com/Confiac1563/Valkaw-Client-Fabric_NeoForge">
     <img src="https://i.imgur.com/foMdMTA.jpeg" alt="Linked Image">
   </a>
