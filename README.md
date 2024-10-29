@@ -1,9 +1,9 @@
 <center>
-	<br><a href="https://www.curseforge.com/minecraft/modpacks/valkaw-client"><img src="https://i.imgur.com/OjPk3qU.jpeg" width="128" height="128">
+	<br><a href="https://www.curseforge.com/minecraft/modpacks/valkaw-client"> <img src="https://i.imgur.com/OjPk3qU.jpeg" width="128" height="128">
     </a>
-	<a href="https://github.com/Confiac1563/Valkaw-Client-Fabric_NeoForge"><img 	src="https://i.imgur.com/foMdMTA.jpeg" width="128" height="128">
+	<a href="https://github.com/Confiac1563/Valkaw-Client-Fabric_NeoForge"> <img src="https://i.imgur.com/foMdMTA.jpeg" width="128" height="128">
     </a> 
-	<a href="https://modrinth.com/modpack/valkaw-client"><img src="https://i.imgur.com/8Nv4p2p.jpeg" width="128" height="128">
+	<a href="https://modrinth.com/modpack/valkaw-client"> <img src="https://i.imgur.com/8Nv4p2p.jpeg" width="128" height="128">
     </a>
 </center>
 
