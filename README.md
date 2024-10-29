@@ -1,11 +1,14 @@
-<center>
-	<br><a href="https://www.curseforge.com/minecraft/modpacks/valkaw-client"> <img src="https://i.imgur.com/OjPk3qU.jpeg" width="128" height="128">
-    </a>
-	<a href="https://github.com/Confiac1563/Valkaw-Client-Fabric_NeoForge"> <img src="https://i.imgur.com/foMdMTA.jpeg" width="128" height="128">
-    </a> 
-	<a href="https://modrinth.com/modpack/valkaw-client"> <img src="https://i.imgur.com/8Nv4p2p.jpeg" width="128" height="128">
-    </a>
-</center>
+<p align="center">
+  <a href="https://www.curseforge.com/minecraft/modpacks/valkaw-client">
+    <img src="https://i.imgur.com/OjPk3qU.jpeg" alt="Linked Image 1">
+  </a>
+  <a href="https://github.com/Confiac1563/Valkaw-Client-Fabric_NeoForge">
+    <img src="https://i.imgur.com/foMdMTA.jpeg" alt="Linked Image 2">
+  </a>
+  <a href="https://modrinth.com/modpack/valkaw-client">
+    <img src="https://i.imgur.com/8Nv4p2p.jpeg" alt="Linked Image 3">
+  </a>
+</p>
 
 ## UPDATE!!!
 - **[For those who are using Fabric 1.20.4 v1.5] Please delete the following mods: AppleSkin, Continuity, Fast Trading, freelook, Gamma Utils, Longer Chat History, Macro Keybinds, MinecraftCapes, ViaFabricPlus (maybe u need this), WorldHost, WorldEdit +  CUI. Looks like disabled mods are still being added, next time I'll delete them instead of disabling them. If you need some mods in the list, just enable them.**
